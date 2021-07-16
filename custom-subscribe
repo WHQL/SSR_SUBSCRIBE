@@ -8,6 +8,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".yinshua86.com",
         ".gazo.space",
         ".yandex.com",
         ".clstorage.net",
