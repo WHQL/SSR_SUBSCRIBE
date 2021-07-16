@@ -9,6 +9,9 @@ var RULES = [
     //custom-list
     [
         ".yandex.net",
+        ".clstorage.net",
+        ".yastatic.net",
+        ".yandex.net",
         ".bootstrapcdn.com",
         ".ipaddress.com",
         ".githubassets.com",
