@@ -8,7 +8,7 @@ var RULES = [
     ],
     //custom-list
     [
-        ".yandex.net",
+        ".yandex.com",
         ".clstorage.net",
         ".yastatic.net",
         ".yandex.net",
