@@ -8,6 +8,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".bootstrapcdn.com",
         ".ipaddress.com",
         ".githubassets.com",
         ".zoopda.com",
