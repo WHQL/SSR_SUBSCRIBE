@@ -8,6 +8,10 @@ var RULES = [
     ],
     //custom-list
     [
+        ".taobao.com",
+        ".alibaba.com",
+        ".tmall.com",
+        ".aliyuncs.com",
         ".gazo.space",
         ".yandex.com",
         ".clstorage.net",
