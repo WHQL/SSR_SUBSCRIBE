@@ -8,6 +8,8 @@ var RULES = [
     ],
     //custom-list
     [
+        ".chinaz.com",
+        ".chinaz.net",
         ".taobao.com",
         ".alibaba.com",
         ".tmall.com",
