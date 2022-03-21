@@ -8,7 +8,7 @@ var RULES = [
     ],
     //custom-list
     [
-        "*.bdstatic.com",
+        ".bdstatic.com",
         ".lcs666.top",
         ".chinaz.com",
         ".chinaz.net",
