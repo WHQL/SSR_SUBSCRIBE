@@ -3,6 +3,7 @@
 ; Date: 2023/1/22
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+
 *.google.com
 *.trycloudflare.com
 *.gstatic.com
